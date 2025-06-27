@@ -32,6 +32,11 @@ The **Quantum Community Trading Platform** enables peer-to-peer USDT trading amo
 
   * Admins can broadcast important updates and system-wide alerts.
 
+
+
+![Uploading image.png…]()
+
+
 ## ⚙️ Technologies Used
 
 * **Frontend**:
