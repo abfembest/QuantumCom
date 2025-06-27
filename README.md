@@ -1,6 +1,3 @@
-Sure! Here's a complete and well-structured `README.md` for your **Quantum Community Trading Platform** project:
-
----
 
 # 💹 Quantum Community Trading Platform
 
