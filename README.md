@@ -34,7 +34,8 @@ The **Quantum Community Trading Platform** enables peer-to-peer USDT trading amo
 
 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/292c60fe-d0a3-41c9-9dd8-b89e3ed06dd4)
+
 
 
 ## ⚙️ Technologies Used
@@ -55,6 +56,8 @@ The **Quantum Community Trading Platform** enables peer-to-peer USDT trading amo
 
   * Visual Studio Code / Visual Studio
   * XAMPP / LAMP Stack
+
+![image](https://github.com/user-attachments/assets/f23331e0-be98-4974-a829-10d3a6f96e9d)
 
 ## 📁 Project Structure (Overview)
 
