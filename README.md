@@ -14,6 +14,9 @@ The **Quantum Community Trading Platform** enables peer-to-peer USDT trading amo
 
   * Sellers can release USDT after confirming the buyer's payment.
   * Buyers confirm receipt of USDT to unlock the seller’s trading privileges.
+ 
+  ![image](https://github.com/user-attachments/assets/3b8b2a8c-4b8a-461d-bd7d-7162960af288)
+
 * 🧑‍💼 **Role-Based Access**:
 
   * **Admin**: Full access to approve users, manage notifications, and oversee transactions.
